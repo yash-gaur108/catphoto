@@ -1,0 +1,22 @@
+body{
+    background-color: #1b1b32;
+    color: white;
+}
+.menu{
+    display: block;
+    margin: 0.5rem;
+}
+.title{
+    text-align: center;
+}
+h1,p{
+    margin:1em auto;
+}
+fieldset{
+    border: 0;
+    padding: 2rem;
+    border-bottom:3px solid  #3b3b4f; 
+}
+input,textarea,select{
+    
+}
