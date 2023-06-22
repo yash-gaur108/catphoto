@@ -1,0 +1,21 @@
+.text{
+    text-align: center;
+    padding: 30px;
+    background-color: #0f0f30;
+    color: #ffffff;
+    border-bottom: 4px solid #fdb347 ;
+    text-transform: uppercase;
+}
+.image{
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px 400px;
+    gap: 10px;
+    border-radius: 16%;
+}
+
